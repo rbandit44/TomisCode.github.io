@@ -1,3 +1,3 @@
-# TomisCode.github.io
+# dybendalsecurity.no
 
->This is the website repository for Andrea Dybendal
+>This is the website repository for my portfolio website.
